@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="faruk" Host="FARUK-ZENBOOK" Pid="9576" HostCore="16" HostMemory="016234950656">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="faruk" Host="FARUK-ZENBOOK" Pid="10588" HostCore="16" HostMemory="016234950656">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="faruk" Host="FARUK-ZENBOOK" Pid="16316" HostCore="16" HostMemory="016234950656">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="faruk" Host="FARUK-ZENBOOK" Pid="22728" HostCore="16" HostMemory="016234950656">
+    </Process>
+</ProcessHandle>

@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: SIM DONE
+Time: 90 ms  Iteration: 0  Process: /tb_debounce/P_STIMULI  File: C:/Users/faruk/VHDL/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd
+$finish called at time : 90 ms : File "C:/Users/faruk/VHDL/debounce/debounce.srcs/sim_1/new/tb_debounce.vhd" Line 121
